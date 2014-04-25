@@ -1,4 +1,1 @@
-primoss.github.io
-=================
-
-primos's blog
+this is pagers.github for primos's blog
